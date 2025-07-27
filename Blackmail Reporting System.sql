@@ -48,7 +48,7 @@ INSERT INTO BlackmailReports (reporter_name, report_text, incident_date, btc_thr
 (NULL, 'Pay 500 BTC now or your secrets go viral.', '2025-07-25', 0.5),  
 
 -- Insert sample blackmail report #2 (named) with BTC ransom threat  
-('*Unknown*', '500 BTC ransom demanded to avoid exploit!', '2025-07-24', 1.2);  
+('*Unknown*', '500 BTC ransom demanded to avoid exploit!', '2025-07-24', 0.5);  
 
 -- Insert evidence linked to the first report  
 INSERT INTO Evidence (report_id, evidence_type, evidence_url) VALUES  
