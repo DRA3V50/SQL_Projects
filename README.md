@@ -36,14 +36,9 @@ This project simulates a **SQL-based Nmap network scan** for lab practice. It in
 2. Execute the script to create the necessary tables and stored procedure  
 3. Run the scan with:  
 
-EXEC sp_Scan;
-
 -- ****************************************************************************
-
--- ⚠️ WARNING: Lab Simulation Only
--- This procedure is purely for educational purposes.
--- All scan results are randomly generated in SQL.
--- It does NOT affect real networks or systems.
--- Please do NOT run on live networks.
-
+-- ⚠️ WARNING: Educational Use Only
+-- This script is a safe simulation for lab practice.
+-- All scan results are randomly generated within SQL.
+-- No real networks or systems are affected.
 -- ****************************************************************************
