@@ -33,8 +33,33 @@ This project simulates a **SQL-based Nmap network scan** for lab practice. It in
 
 **How to Use:**  
 1. Open `Umbrella_Network_Scan_SQL_Nmap_Exposure_Alert.sql` in SSMS or Azure Data Studio  
-2. Execute the script to create the necessary tables and stored procedure  
-3. Run the scan with:  
+2. Execute the script to create the necessary tables and stored procedure
+3.  Run the scan with:  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 -- ****************************************************************************
 -- **WARNING**
