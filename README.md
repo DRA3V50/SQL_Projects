@@ -39,9 +39,9 @@ This project simulates a **SQL-based Nmap network scan** for lab practice. It in
 
 **WARNING**
 ====================================================================
-
+--------------------------------------------------------------------
 * Use this simulation responsibly and only in your lab environment.  
 * All scan results are randomly generated within SQL for educational purposes.  
 * This tool is safe and will not affect any real networks or systems.  
-
-====================================================================
+---------------------------------------------------------------------
+=====================================================================
