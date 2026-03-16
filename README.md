@@ -23,7 +23,7 @@ This project simulates a SQL-based Nmap network scan for lab practice. It includ
 **How to Use:**  
 Open the file named Umbrella_Network_Scan_SQL_Nmap_Exposure_Alert.sql in SQL Server Management Studio or Azure Data Studio. Execute the script to create the required tables and stored procedure. Run the scan to view simulated results.  
 
-**Important Notes:**  
+**⚠️ Important Notes:**  
 Use this simulation responsibly and only in your lab environment. All scan results are randomly generated for educational purposes and will not affect any real networks or systems.
 
 ## **3. Automated Metrics Logging System**
