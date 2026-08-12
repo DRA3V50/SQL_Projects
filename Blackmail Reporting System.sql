@@ -45,7 +45,7 @@ GO
 
 -- Insert sample blackmail report #1 (anonymous) with BTC ransom threat  
 INSERT INTO BlackmailReports (reporter_name, report_text, incident_date, btc_threat) VALUES  
-(NULL, 'Pay 500 BTC now or your secrets go viral.', '2025-07-25', 0.5),  
+(NULL, 'Pay 500 BTC now or your secrets go viral.', '2026-08-11', 0.5),  
 
 -- Insert sample blackmail report #2 (named) with BTC ransom threat  
 ('*Unknown*', '500 BTC ransom demanded to avoid exploit!', '2025-07-24', 0.5);  
